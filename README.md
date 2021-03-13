@@ -16,6 +16,10 @@ Fuente de alimentación: 24V15A360W
 
 ## Mejoras
 
+[Soporte fuente](https://www.thingiverse.com/thing:4740318)
+
+![](https://cdn.thingiverse.com/assets/ba/b2/58/2c/7d/featured_preview_photo_2021-01-28_02-53-48.jpg)
+
 [Soporte fuente de alimentación vertical](https://www.thingiverse.com/thing:4671163)
 
 ![](https://cdn.thingiverse.com/assets/ab/22/14/3d/0a/featured_preview_IMG_1407-min.jpg)
